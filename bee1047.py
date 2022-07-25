@@ -7,7 +7,7 @@ Entrada
 Quatro números inteiros representando a hora de início e fim do jogo.
 
 Saída
-Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
+Mostre a seguinte mensagem: “O JOGO DUROU XX HORA(S) E YY MINUTO(S)” .
 '''
 hr_i, min_i, hr_f, min_f = map(int, input().split(" "))
 
