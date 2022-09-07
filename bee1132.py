@@ -1,5 +1,7 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1132
 
+# Múltiplos de 13
+
 def main() -> None:
 
     soma = 0
