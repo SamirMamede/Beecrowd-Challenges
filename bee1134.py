@@ -19,9 +19,9 @@ def main() -> None:
             break
 
     print('MUITO OBRIGADO')
-    print('Alcool: {}' .format(alcool))
-    print('Gasolina: {}' .format(gasolina))
-    print('Diesel: {}' .format(diesel))
+    print(f'Alcool: {alcool}')
+    print(f'Gasolina: {gasolina}')
+    print(f'Diesel: {diesel}')
 
 
 if __name__ == "__main__":

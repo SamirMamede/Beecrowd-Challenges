@@ -14,7 +14,7 @@ def main() -> None:
         else:
             print('nota invalida')
     media: float = soma / 2
-    print('media = {}' .format(media))
+    print(f'media = {media}')
 
 
 if __name__ == "__main__":
